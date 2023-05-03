@@ -9,15 +9,17 @@ telegram-chatbot
   - HTML / JSON
 - API
   - JSON
+  - 동행로또 API
   - Telegram API
-  - ??
+  - ???
 - Client
   - Browser
   - `requests`
 - Server
   - Telegram Server
   - `Flask` Server
-- Cloud Server
+- Cloud Service
+  - Python Anywhere
 
 ## what i learned
 
